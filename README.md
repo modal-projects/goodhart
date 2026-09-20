@@ -2,6 +2,8 @@
 
 Stop reward hacking dead in its tracks.
 
+https://github.com/user-attachments/assets/152b6966-aa4d-4a88-b199-24fee272bdb8
+
 Built on [Modal](https://gym.modal.dev/) and [Jev](https://typesafe.ai/).
 
 ## Use it
